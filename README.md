@@ -1,2 +1,3 @@
-# nwitter
-Cloning Twitter with React and Firebase
+# Nwitter
+
+Twitter (mini)clone with React and Firebase
